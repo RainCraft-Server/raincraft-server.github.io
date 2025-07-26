@@ -19,7 +19,7 @@ export const zhNavbar = defineNavbarConfig([
       { text: '皮肤站', link: 'https://skin.ineko.cc' },
       { text: '论坛', link: 'https://bbs.mc.ineko.cc' },
       { text: '联合封禁系统', link: 'https://uni-ban.mc.ineko.cc' },
-      { text: '服务器状态', link: 'https://stat.mc.ineko.cc' }
+      { text: '服务器状态', link: 'https://status.ineko.cc/status/raincraft' }
     ]
   },
 ])
